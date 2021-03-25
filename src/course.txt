@@ -1,0 +1,2 @@
+BIT		true
+BIBM		true

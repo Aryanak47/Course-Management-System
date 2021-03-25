@@ -1,0 +1,40 @@
+team based program		201		4		1		false
+Introductory Programming and Problem Solving		201		4		1		false
+Fundamentals of Computing		201		4		1		false
+Embedded System Programming		201		4		1		false
+Internet Software Architecture		201		4		2		false
+Computational Mathematics		201		4		2		false
+Concepts and Technologies of AI		201		4		2		false
+Object-Oriented Design and Programming		201		4		2		false
+Numerical Methods and Concurrency		201		5		1		false
+Distributed and Cloud System Programming		201		5		1		false
+Collaborative Development		201		5		1		false
+Human Computer Interaction		201		5		1		false
+Complex System		201		5		2		false
+High Performance Computing		201		5		2		false
+Introduction to AI		201		5		2		false
+Big Data		201		5		2		false
+Software Development		201		6		1		false
+Artificial Intelligence and Machine Learning		201		6		2		false
+App development		201		6		1		true
+Project and Professionalism		201		6		2		true
+Preparing for Succcess at University		202		4		1		false
+Project-Based Learning		202		4		1		false
+Principles of Business		202		4		1		false
+21st Century Management		202		4		1		false
+Business in a Global Context		202		4		2		false
+Principles of Marketing		202		4		2		false
+Introduction to Brand Communication		202		4		2		false
+Introduction to People at work		202		4		2		false
+Financial Management		202		5		1		false
+ Diversity Management in a Global Context		202		5		1		false
+International Financial Institutions and Market		202		5		1		false
+Economics of Managerial Decision-Making		202		5		1		false
+Contemporary Issues in IBM		202		5		2		false
+Digital Business and Innovation		202		5		2		false
+Operations and Supply Management		202		5		2		false
+International Human Resources		202		5		2		false
+Dynamics of Multinational Companies		202		6		1		false
+International Marketing		202		6		1		false
+Strategic Management		202		6		1		true
+Independent Project		202		6		1		true
